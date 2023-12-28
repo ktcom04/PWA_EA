@@ -17,16 +17,23 @@
           source="id-51951cb3423f4a9db06de167a08cf5c2"
           target="id-1d56e07d90054632832c48c78ec9e96a">
         <bendpoints
-            startX="-210"
+            startX="-204"
+            startY="-6"
             endY="-78"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-313cd93cf2294fd48420399bbd5e715b.xml#id-313cd93cf2294fd48420399bbd5e715b"/>
       </sourceConnections>
       <bendpoints
+          startX="-12"
           startY="-78"
-          endX="135"
-          endY="78"/>
+          endX="123"
+          endY="72"/>
+      <bendpoints
+          startX="-132"
+          startY="-78"
+          endX="3"
+          endY="72"/>
       <bendpoints
           startX="-132"
           startY="-78"
@@ -76,7 +83,7 @@
         x="413"
         y="216"
         width="272"
-        height="37"/>
+        height="49"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-a1001e09d1a14d5b8eb1de4aa679067a.xml#id-a1001e09d1a14d5b8eb1de4aa679067a"/>
@@ -87,9 +94,9 @@
       targetConnections="id-5acba607c9054e8ebb42a0e7d8120a14"
       fillColor="#eab677">
     <bounds
-        x="434"
-        y="120"
-        width="229"
+        x="423"
+        y="108"
+        width="251"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
