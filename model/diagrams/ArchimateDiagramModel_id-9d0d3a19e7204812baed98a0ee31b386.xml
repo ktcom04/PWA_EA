@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for S2.1 จัดทำแผนงานด้านเทคโนโลยีดิจิทัล"
+    id="id-9d0d3a19e7204812baed98a0ee31b386">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-42b42a41a3d4453bbe8442fc09c39c2d"
+      targetConnections="id-e9a928d18be6421486c4ebf86d8d5f6a">
+    <bounds
+        x="168"
+        y="192"
+        width="277"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-81289995bcff47a5938d9aaa9f1b3e7d.xml#id-81289995bcff47a5938d9aaa9f1b3e7d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-93b33dd94c294bda83e218ce11c67189">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e9a928d18be6421486c4ebf86d8d5f6a"
+        source="id-93b33dd94c294bda83e218ce11c67189"
+        target="id-42b42a41a3d4453bbe8442fc09c39c2d">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-2a926101cb6945599568a5e27ae67f1c.xml#id-2a926101cb6945599568a5e27ae67f1c"/>
+    </sourceConnections>
+    <bounds
+        x="120"
+        y="36"
+        width="241"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-24bcd620a4e9483eb15c261cb41410f1.xml#id-24bcd620a4e9483eb15c261cb41410f1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
