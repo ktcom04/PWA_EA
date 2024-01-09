@@ -61,10 +61,10 @@
           href="AssociationRelationship_id-f74ea8f122a3449d8ecf450186d65fdc.xml#id-f74ea8f122a3449d8ecf450186d65fdc"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="20"
-        width="120"
-        height="55"/>
+        x="72"
+        y="204"
+        width="281"
+        height="29"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-24bcd620a4e9483eb15c261cb41410f1.xml#id-24bcd620a4e9483eb15c261cb41410f1"/>
@@ -72,12 +72,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1b02f030d9e64c2c9aa749efefed5736"
-      targetConnections="id-ffa528a46ea94c6584039eea8be88fc5">
+      targetConnections="id-ffa528a46ea94c6584039eea8be88fc5"
+      textPosition="1">
     <bounds
-        x="180"
-        y="20"
-        width="120"
-        height="55"/>
+        x="516"
+        y="68"
+        width="337"
+        height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-7b6fa0a99a7c4c9e95e60ec9cbc067b7.xml#id-7b6fa0a99a7c4c9e95e60ec9cbc067b7"/>
@@ -85,12 +86,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-25eac66fe3ac4f928da73ed033800bee"
-      targetConnections="id-a44ff6ca92644bf0b6f297e39f288ab8">
+      targetConnections="id-a44ff6ca92644bf0b6f297e39f288ab8"
+      textPosition="1">
     <bounds
-        x="170"
-        y="100"
-        width="120"
-        height="55"/>
+        x="516"
+        y="132"
+        width="337"
+        height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-81289995bcff47a5938d9aaa9f1b3e7d.xml#id-81289995bcff47a5938d9aaa9f1b3e7d"/>
@@ -98,11 +100,12 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e9ef655c79134985b3b5a8e94c8ad0c2"
-      targetConnections="id-cbfd2fb63da44c60923438847df6fc7f">
+      targetConnections="id-cbfd2fb63da44c60923438847df6fc7f"
+      textPosition="1">
     <bounds
-        x="192"
-        y="180"
-        width="120"
+        x="516"
+        y="204"
+        width="337"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -111,12 +114,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-38b57e241cbd4c06bf720baddb0f9c8d"
-      targetConnections="id-ab4bdb3dfb5a4fc79d65616c25dc3cc1">
+      targetConnections="id-ab4bdb3dfb5a4fc79d65616c25dc3cc1"
+      textPosition="1">
     <bounds
-        x="180"
-        y="264"
-        width="120"
-        height="55"/>
+        x="516"
+        y="276"
+        width="337"
+        height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-e871d5f841af4a5b8090441c24c93798.xml#id-e871d5f841af4a5b8090441c24c93798"/>
@@ -124,12 +128,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d099b4e50cc2472da58ff90dc6e33015"
-      targetConnections="id-754f01db321944daa2f83c001a5c9eda">
+      targetConnections="id-754f01db321944daa2f83c001a5c9eda"
+      textPosition="1">
     <bounds
-        x="192"
-        y="360"
-        width="120"
-        height="55"/>
+        x="516"
+        y="348"
+        width="337"
+        height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-a4eeba5d6301414a9242a63328903811.xml#id-a4eeba5d6301414a9242a63328903811"/>
@@ -137,12 +142,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a789b874aa8049f19718598a3f2cd8d1"
-      targetConnections="id-76b4ed2049bb4484b77c8456ced574ed">
+      targetConnections="id-76b4ed2049bb4484b77c8456ced574ed"
+      textPosition="1">
     <bounds
-        x="180"
-        y="456"
-        width="120"
-        height="55"/>
+        x="516"
+        y="420"
+        width="337"
+        height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-c1f7d4f740f7444aa0b741b971f50906.xml#id-c1f7d4f740f7444aa0b741b971f50906"/>
